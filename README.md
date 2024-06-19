@@ -8,8 +8,8 @@ The study aims to find a deep learning model that can classify face expresssion 
 
 The repository contains: <br>
 - Python file with deep learning models. <br>
-- main_2.0.py file with a function to label face expressions based on live image data from a webcam as well as a xml haarscade file. These two files are copied from this repository https://github.com/akmadan/Emotion_Detection_CNN. The main file have been been updated. <br>
-- Word doc with answers to theoretical questions.
+- main_3.0.py file with a function to label face expressions based on live image data from a webcam as well as a xml haarscade file. These two files are copied from this repository https://github.com/akmadan/Emotion_Detection_CNN. The main file have been been updated. <br>
+- a pdf file with answers to theoretical questions.
 
 
 

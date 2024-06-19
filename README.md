@@ -1,8 +1,8 @@
-Kunskapsskontroll 2
-Deep Learning
-Ec Utbildning 
-Astrid Hansen
-May 2024
+Kunskapsskontroll 2 <br>
+Deep Learning <br>
+Ec Utbildning <br>
+Astrid Hansen <br>
+May 2024 <br>
 
 The study aims to find a deep learning model that can classify face expresssion based on live image input from a webcam.  
 
